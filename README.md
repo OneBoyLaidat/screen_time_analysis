@@ -33,8 +33,8 @@ Reason: I want to know what my biggest time-drain are and if it is the usual sus
 
 ## TOOLS USED
 For my deep dive into my screen time, I harnessed the power of:
-1. **Power BI** – I used Power BI for the whole analytical process from data cleaning to data prep,
-to Data Modelling and Exploring the data till Data Visualization. 
+
+1. **Power BI** – I used Power BI for the whole analytical process from data cleaning to data prep, to Data Modelling and Exploring the data till Data Visualization. 
 
 I used the following skills and tools during the project. 
 - Power Query
@@ -51,9 +51,11 @@ The data was stored in multiple worksheets in a single Excel workbook in a XLSX 
 ### DATA PREP AND CLEANING
 - Loaded the dataset with Power Query.
 - Selected the three worksheets I would be working with:
-App - Usage Count (renamed to “Fact_App_Sessions”)
-App - Usage Time (renamed to "Fact_Screen_Time”)
-Device Unlocks (renamed to “Fact_Device_Sessions”)
+
+  - App - Usage Count (renamed to “Fact_App_Sessions”)
+  - App - Usage Time (renamed to "Fact_Screen_Time”)
+  - Device Unlocks (renamed to “Fact_Device_Sessions”)
+
 - Unpivoted the dates from columns into a single column called ‘Date’ in each table.
 - Removed all rows that had “Total Usage” Values in each table.
 - Converted the screen time values from “Xh Ym Zs” text format to its equivalent in seconds in the “Fact_Screen_Time” Table.
@@ -75,18 +77,18 @@ Next, I created an interactive dashboard in Power BI to look at my Screen time m
 
 ## THE ANALYSIS
 Each query for this project aimed at investigating specific aspects of my screen time. Here’s how I approached each question:
-1.	**What is my average daily screen time across the entire period analysed?**
+1. **What is my average daily screen time across the entire period analysed?**
           
 With a daily average screen time of almost 7 hours (6hrs 56mins), that’s 3hrs 13mins more the global average for mobile phone usage (3hrs 43 mins) and almost 5 hrs more my target goal of 2hrs.
 
 I can say there is indeed a problem about my relationship with my phone.
 
-2.	**Is there a significant difference in screen time between weekdays and weekends? Are there specific days where I tend to overindulge?**
+2. **Is there a significant difference in screen time between weekdays and weekends? Are there specific days where I tend to overindulge?**
   
 My average screentime on weekends were 30 minutes less than on weekdays but were both higher than my target of 2hrs. 
 Mondays have the highest average screen time i.e. I spend more time on my phone on Monday than any other day.
 
-3.	**Which apps am I spending the most time on? Is there a specific category dominating my usage (e.g., social media, games, videos)?**
+3. **Which apps am I spending the most time on? Is there a specific category dominating my usage (e.g., social media, games, videos)?**
   
 The top 5 categories were Games, Socials, Videos, Browser and Others (which was is a category for apps I couldn’t categorise) in that order, contributing 1380 hours out of the total screen time of 1500 hours between March 2nd and October 5th, 2023. 
 
