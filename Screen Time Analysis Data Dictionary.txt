@@ -1,0 +1,30 @@
+Data Dictionary
+
+**Fact_Screen_Time**
+- App : The name of the apps;  TYPE:TEXT
+- Date: Contains Date From 2nd March till 5th October, 2024; TYPE:DATE
+- Screen Time(Sec) : The total screen time in seconds for each day; TYPE: INT
+
+**Fact_App_Sessions**
+- App : The name of the apps;  TYPE:TEXT
+- Date: Contains Date From 2nd March till 5th October, 2024; TYPE:DATE.
+- Sessions : The total number of times an app was opened; TYPE: INT.
+
+**Fact_Device_Sessions**
+- Date: Contains Date From 2nd March till 5th October, 2024; TYPE:DATE.
+- Sessions : The total number of times my phone was unlocked; TYPE: INT.
+
+**Dim_Date**
+- Date: Contains Date From 2nd March till 5th October, 2024; TYPE:DATE.
+- Year: The year the entry was recorded; TYPE: INT.
+- Month: The month number the entry was recorded; TYPE: INT.
+- Month Name: The name of the month the entry was recorded; TYPE: INT.
+- Start of Week: The first date on the start of the week starting on Monday; TYPE: DATE.
+- Day: The day of the month the entry was recorded. Ranges between 1and 31; TYPE: INT.
+- Day of Week:The day of the week the entry was recorded. Between 0 and 6 with 0 being Monday and 6 being Sunday; TYPE: INT
+- Day Name: The name of the day the the entry was recorded. Monday to Sunday; TYPE: TEXT.
+- is_weekend: Flags each date entry has 'weekend' or 'weekday', with weekends as Saturday and Sunday; TYPE: TEXT.
+
+**Dim_App**
+- App: The name of the apps;  TYPE:TEXT
+- Category: The category each app belongs to; TYPE: TEXT
