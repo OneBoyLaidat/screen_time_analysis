@@ -40,6 +40,7 @@ I used the following skills and tools during the project.
 - Power Query
 - DAX
 - Slicers
+- Data Visualization
 
 ## DATA PREPARATION AND QA
 ### DATA
