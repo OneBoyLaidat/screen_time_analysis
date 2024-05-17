@@ -52,7 +52,7 @@ The data was stored in multiple worksheets in a single Excel workbook in a XLSX 
 ### DATA PREP AND CLEANING
 |**Before Data Prep**|**After Data Prep**|
 |:---:|:---:|
-|![time_spent_b4_modelling](https://github.com/OneBoyLaidat/screen_time_analysis/assets/139885891/66f78cf8-f7fb-4780-992e-64c1cb558fe0)|![screen_time_after_modelling](https://github.com/OneBoyLaidat/screen_time_analysis/assets/139885891/d48b3c2b-1617-4010-ab3d-50dc5e662ab8)|
+|![time_spent_b4_modelling](https://github.com/OneBoyLaidat/screen_time_analysis/assets/139885891/66f78cf8-f7fb-4780-992e-64c1cb558fe0) | ![screen_time_after_modelling](https://github.com/OneBoyLaidat/screen_time_analysis/assets/139885891/d48b3c2b-1617-4010-ab3d-50dc5e662ab8)|
 
 - Loaded the dataset with Power Query.
 - Selected the three worksheets I would be working with:
