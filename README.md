@@ -31,6 +31,11 @@ Reason: To see what days I tend to overindulge.
 - Which apps am I spending the most time on? Is there a specific category dominating my usage (e.g., social media, games, news)?
 Reason: I want to know what my biggest time-drain are and if it is the usual suspects.
 
+## DASHBOARD
+Here’s a snapshot of what the final dashboard looks like. [Click to view the live dashboard.](https://bit.ly/screen-time-report)
+
+![Screen_Time_Report](https://github.com/OneBoyLaidat/screen_time_analysis/assets/139885891/a50d8e61-30e0-4881-bf81-1b3c3c8ffcc5)
+
 ## TOOLS USED
 For my deep dive into my screen time, I harnessed the power of:
 
@@ -119,11 +124,6 @@ It’s no surprise to me that 2 of the top 5 apps used were football games. I’
 
 WhatsApp, YouTube, Chrome, Google, VLC, Sudoku, Phone and Files by Google finished up the top 10 apps used and contributed to 81% of the total screen time (1500 hrs.) spent.
 
-## DASHBOARD
-Here’s a snapshot of what the final dashboard looks like. [Click to view the live dashboard.](https://bit.ly/screen-time-report)
-
-![Screen_Time_Report](https://github.com/OneBoyLaidat/screen_time_analysis/assets/139885891/a50d8e61-30e0-4881-bf81-1b3c3c8ffcc5)
-
  
 ## RECOMMENDATIONS
 
@@ -133,6 +133,6 @@ Here’s a snapshot of what the final dashboard looks like. [Click to view the l
 4.	Schedule time blocks for catching up with sport news since that is what I spend most of my time on Google and Chrome doing.
 
 ## CLOSING THOUGHTS
-This project has enhanced my Power BI and Data Visualization skills and offered valuable insights into my screen time habits. The findings from the analysis serve as a guide to prioritizing apps to cut for increased productivity.
+This project has enhanced my Power BI and Data Visualization skills and offered valuable insights into my screen time habits. The findings from the analysis serves as a guide to prioritizing apps to cut for reduced screen time.
 
 Now I can better position myself to get things done without distraction.
