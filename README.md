@@ -2,7 +2,7 @@
 
 If I got a dollar for every time I have heard the words “You spend too much time on your phone!” I would be the richest man in Africa. 
 
-This data analysis project is my attempt to fix that and gain insights into my phone usage by analysing my screen time data from March 2nd to October 5th, 2023. 
+So, this data analysis project is my attempt to fix that and gain insights into my phone usage by analysing my screen time data between March 2nd, 2023 to October 5th, 2023. 
 
 **My goal is straightforward -** Understand how long I spend on my phone and reduce daily screen time to under 2 hours. 
 
